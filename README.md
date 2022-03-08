@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋
+
+- 💻 I’m a software developer from Germany.
+- 🔭 I’m currently working on projects to digitalise the public sector.
+- 🌱 I’m currently learning Svelte and SvelteKit to strengthen my frontend skills.
 
 <!--
 **rotespferd/rotespferd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
