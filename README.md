@@ -1,8 +1,17 @@
-## Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="100"/>
+</div>
 
+<h1 align="center">Hi there 👋</h1>
+
+## 👨‍💻 About me
 - 💻 I’m a software developer from Germany.
 - 🔭 I’m currently working on projects to digitalise the public sector.
 - 🌱 I’m currently learning Svelte and SvelteKit to strengthen my frontend skills.
+
+
+
+
 
 <!--
 **rotespferd/rotespferd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
