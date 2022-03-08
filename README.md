@@ -39,6 +39,20 @@
 </div>
 
 <h2 align="center">Contact me 📫</h2>
+<div align="center">
+  <a href="https://www.linkedin.com/in/marian-hahne-a531b8106/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.xing.com/profile/Marian_Hahne/cv" target="_blank">
+    <img src="https://img.shields.io/badge/xing-green?logo=xing&logoColor=white&style=for-the-badge" alt="Xing Badge"/>
+  </a>
+  <a href="https://mastodon.technology/@rotespferd" target="_blank">
+    <img src="https://img.shields.io/badge/mastodon-blue?logo=mastodon&logoColor=white&style=for-the-badge" alt="Mastodon Badge"/>
+  </a>
+  <a href="https://www.instagram.com/r0tespf3rd/" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-purple?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
+  </a>
+</div>
 
 <!--
 **rotespferd/rotespferd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
