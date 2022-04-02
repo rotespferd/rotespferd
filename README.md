@@ -57,9 +57,7 @@
 <h2 align="center">Stats</h2>
 <div align="center">
 
-[![rotespferd's GitHub stats](https://github-readme-stats.vercel.app/api?username=rotespferd&count_private=true)](https://github.com/rotespferd)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rotespferd&count_private=true&hide=coffeescript)](https://github.com/rotespferd)
+<img src="github-metrics.svg" alt="Metrics" width="100%">
 
 </div>
 <!--
