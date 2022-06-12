@@ -1948,7 +1948,7 @@ In the command to start Meilisearch with Docker a backslash is missing in line 5
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 287k out of 92m users</span>
+                                    <span class="gh">ranked 288k out of 92m users</span>
                                 </div>
                                 <div class="text">Published 66 public repositories</div>
                             </div>
@@ -2411,7 +2411,7 @@ In the command to start Meilisearch with Docker a backslash is missing in line 5
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Jun 2022, 16:05:31 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 12 Jun 2022, 22:05:38 (timezone Europe/Berlin) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
