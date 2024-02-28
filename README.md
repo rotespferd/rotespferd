@@ -1,30 +1,23 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="200"/>
-</div>
-
 <h1 align="center">Hi there 👋</h1>
 
 <h2 align="center">About me 👨‍💻</h2>
 
 - 💻 I’m a software developer from Germany.
+- 😄 Pronouns: he/him
 - 🔭 I’m currently working on projects to digitalise the public sector.
-- 🌱 I’m currently learning Svelte and SvelteKit to strengthen my frontend skills.
+- 🌱 I do some personal project with PHP and fiddle around with Rust, Arduino und IoT stuff.
 
 <h2 align="center">My techstack 🛠️</h2>
 <h3 align="center">Languages</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="100"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="100" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="100" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="100" />
 </div>
 
 <h3 align="center">Frameworks</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original-wordmark.svg" width="100" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="100" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eleventy/eleventy-original.svg" width="100" />
   <img src="https://avatars.githubusercontent.com/u/5717006?s=200&v=4" width="100" />
   <img src="https://avatars.githubusercontent.com/u/47638783?s=200&v=4" width="100">
 </div>
@@ -46,11 +39,8 @@
   <a href="https://www.xing.com/profile/Marian_Hahne/cv" target="_blank">
     <img src="https://img.shields.io/badge/xing-green?logo=xing&logoColor=white&style=for-the-badge" alt="Xing Badge"/>
   </a>
-  <a href="https://mastodon.technology/@rotespferd" target="_blank">
+  <a href="https://nrw.social/@rotespferd" target="_blank">
     <img src="https://img.shields.io/badge/mastodon-blue?logo=mastodon&logoColor=white&style=for-the-badge" alt="Mastodon Badge"/>
-  </a>
-  <a href="https://www.instagram.com/r0tespf3rd/" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-purple?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
   </a>
 </div>
 
